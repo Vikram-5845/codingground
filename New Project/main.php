@@ -39,7 +39,7 @@ foreach($var as $val){
         }
 }
 
-var_dump($custom_array['credential']['name']);
+echo $custom_array['credential']['name'];
 ?>
 </body>
 </html>
